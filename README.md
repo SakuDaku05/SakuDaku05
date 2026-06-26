@@ -79,7 +79,12 @@ Every hero needs a utility belt. These are the tools in my web-shooters, mastere
 <div align="center">
   <h3>🎧 Web-Swinging Soundtrack</h3>
   <p><i>Hit play and enjoy the vibe of the Spider-Verse:</i></p>
-  <video controls src="Phillip-Phillips-Gone-Gone-Gone.mp3" width="400"></video>
+
+  [![Play Song](https://img.shields.io/badge/🎵_Gone_Gone_Gone-e23636?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=oozQ4yV__Vw)
+  
+  <br>
+
+  https://github.com/SakuDaku05/SakuDaku05/raw/main/Phillip-Phillips-Gone-Gone-Gone.mp3
 </div>
 
 <br><br>
