@@ -1,4 +1,3 @@
-[Phillip-Phillips-Gone-Gone-Gone.mp3](https://github.com/user-attachments/files/29396412/Phillip-Phillips-Gone-Gone-Gone.mp3)
 <div align="center">
   <img src="banner1.png" alt="Spider-Man Banner" width="100%" style="border-radius: 10px;" />
 </div>
@@ -82,7 +81,7 @@ Every hero needs a utility belt. These are the tools in my web-shooters, mastere
   <p><i>Hit play and enjoy the vibe of the Spider-Verse:</i></p>
 </div>
 
-[Phillip-Phillips-Gone-Gone-Gone.mp3](https://github.com/user-attachments/files/29396435/Phillip-Phillips-Gone-Gone-Gone.mp3)
+https://github.com/user-attachments/files/29396435/Phillip-Phillips-Gone-Gone-Gone.mp3
 
 
 <br><br>
