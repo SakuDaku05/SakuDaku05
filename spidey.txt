@@ -54,3 +54,30 @@ Using comic‑style section headers.
 Adding web dividers (--- 🕸️ ---).
 
 Embedding a city skyline silhouette in your banner.
+
+
+Ways to Add a Song
+Spotify Embed
+
+Get the embed code from Spotify for your chosen track/playlist.
+
+Add it inside your README:
+
+html
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/TRACK_ID" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+This shows a playable widget right on your profile.
+
+YouTube Embed
+
+Use the YouTube embed link for a song or theme music.
+
+Example:
+
+html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+Direct Link
+
+If you don’t want embeds, just add a clickable badge:
+
+markdown
+[![Play Song](https://img.shields.io/badge/Play_SpiderMan_Theme-red?style=for-
