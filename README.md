@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/qg9bHkPqfKkAAAAd/spiderman.gif" alt="Spider-Man PS4 Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/l41lOlmKxAosRzyP6/giphy.gif" alt="Spider-Man Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">🕷️ Welcome to the Multiverse 🕸️</h1>
@@ -17,13 +17,13 @@
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/tC5fVp65wKcAAAAC/spidey-sense-spider-man.gif" alt="Spidey Sense Alert" width="60%" style="border-radius:15px;" />
+  <img src="https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif" alt="Spidey Sense Alert" width="60%" style="border-radius:15px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/2s_TWe8iA9UAAAAC/spider-gwen-gwen-stacy.gif" alt="Gwen Stacy" width="45%" style="border-radius:15px; margin-right: 20px" />
+  <img src="https://media.giphy.com/media/cJMmZY7jSCKclZXYH4/giphy.gif" alt="Gwen Stacy" width="45%" style="border-radius:15px; margin-right: 20px" />
   <img src="https://media.giphy.com/media/10hzvF9FTulBte/giphy.gif" alt="Spider-Man action" width="45%" style="border-radius:15px;" />
 </div>
 
@@ -31,7 +31,7 @@
 I'm a Developer & Tech Enthusiast, swinging through codebases and battling bugs. Just like Gwen and Peter, I believe in balancing the dual life of exploring new dimensions in AI/ML and keeping the digital city safe with robust engineering.
 
 <div align="center">
-  <img src="https://media.tenor.com/bY_4GjYhH8sAAAAC/spiderman-rain.gif" alt="Spiderman in rain" width="70%" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/5OqXb948EBkyUqbOaF/giphy.gif" alt="Spiderman in rain" width="70%" style="border-radius: 15px;" />
 </div>
 
 ## ⚡ Current Missions (Webs I'm Spinning)
@@ -40,7 +40,7 @@ I'm a Developer & Tech Enthusiast, swinging through codebases and battling bugs.
 - 🕸️ Automating Pipelines to catch the bad guys faster
 
 <div align="center">
-  <img src="https://media.tenor.com/4l1Hq_P_Lz8AAAAC/spiderman-chase.gif" alt="Spiderman chase" width="70%" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/l0HlVJmZqycfXXH0c/giphy.gif" alt="Spiderman chase" width="70%" style="border-radius: 15px;" />
 </div>
 
 ## 💥 Villains I've Defeated (Tech Stack)
@@ -75,10 +75,6 @@ These are the technologies I've mastered to keep the streets safe from chaos!
 
 <div align="center">
   <h3>🎧 Web-Swinging Soundtrack</h3>
-  <!-- Spotify Embed for Sunflower (Spider-Man: Into the Spider-Verse) -->
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3KkXRkHbMCARz0aVfEt68P?utm_source=generator&theme=0" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  <br>
-  <!-- Fallback clickable badge in case GitHub blocks the iframe -->
   [![Play Song](https://img.shields.io/badge/Play_SpiderMan_Theme-red?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 </div>
 
@@ -86,5 +82,5 @@ These are the technologies I've mastered to keep the streets safe from chaos!
 
 <div align="center">
   <p><i>"See ya later!"</i></p>
-  <img src="https://media.tenor.com/P4m3rR21lU4AAAAC/spider-man-jump.gif" alt="Spidey Jump Goodbye" width="50%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/1qErVv5GVUac8/giphy.gif" alt="Spidey Jump Goodbye" width="50%" style="border-radius: 10px;" />
 </div>
