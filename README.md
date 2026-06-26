@@ -72,6 +72,12 @@ Every hero needs a utility belt. These are the tools in my web-shooters, mastere
 
 <br><br>
 
+<div align="center">
+  <img src="villain.gif" alt="The Sinister Six" width="70%" style="border-radius: 15px;" />
+</div>
+
+<br><br>
+
 --- 🕸️ ---
 
 <br><br>
