@@ -14,66 +14,75 @@
   <img src="https://img.shields.io/badge/Come_Swing_With_Me-5085c8?style=for-the-badge" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="alert.gif" alt="Spidey Sense Alert" width="60%" style="border-radius:15px;" />
 </div>
 
-<br>
+<br><br>
 
-## 🕸️ The Web-Slinger's Bio
-I'm a Developer & Tech Enthusiast, swinging through codebases and battling bugs. Just like Gwen and Peter, I believe in balancing the dual life of exploring new dimensions in AI/ML and keeping the digital city safe with robust engineering.
+## 🕸️ Origin Story: The Web-Slinger of Code
+
+Just like Peter Parker getting bitten by a radioactive spider, my journey began with a single line of code that changed everything. My "Spidey Sense" tingles every time a bug enters production, and I've learned that with great computational power comes a great responsibility to build scalable, clean, and optimized architectures. 
+
+I don't just write code; I swing between complex microservices, weaving webs of logic that connect databases, APIs, and beautiful user interfaces. Balancing my life between mastering the arcane arts of Machine Learning and defending the digital city against the forces of chaos (spaghetti code), I'm always looking for the next leap of faith into a new technology.
+
+<br><br>
 
 <div align="center">
   <img src="in_rain.gif" alt="Spiderman in rain" width="70%" style="border-radius: 15px;" />
 </div>
 
+<br><br>
+
 ## ⚡ Current Missions (Webs I'm Spinning)
-- 🦸‍♂️ Mastering Large Language Models & Agentic AI
-- 🕷️ Web Development & System Design
-- 🕸️ Automating Pipelines to catch the bad guys faster
+
+- 🦸‍♂️ **Mastering Agentic AI & Large Language Models:** Pushing the boundaries of what machines can understand and generate.
+- 🕷️ **Full-Stack Web Development:** Crafting pixel-perfect, responsive web applications that feel as smooth as swinging through the skyline of New York.
+- 🕸️ **Automating the Spider-Verse:** Designing CI/CD pipelines to catch bad deployments before they ever hit the streets.
+
+<br><br>
 
 <div align="center">
   <img src="chase.gif" alt="Spiderman chase" width="70%" style="border-radius: 15px;" />
 </div>
 
+<br><br>
+
 ## 💥 Villains I've Defeated (Tech Stack)
-These are the technologies I've mastered to keep the streets safe from chaos!
+
+Every hero needs a utility belt. These are the tools in my web-shooters, mastered to keep the streets safe from chaos:
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-## 🎭 The Sinister Six (Challenges I'm Conquering)
-- **Doc Ock (Multi-tasking):** Managing complex Microservices & Multi-Agent systems.
-- **Venom (Legacy Code):** Taming chaotic and dark legacy codebases into pure, maintainable architectures.
-- **Green Goblin (Production Bugs):** Defeating unexpected crashes with high-flying debugging skills.
+## 🎭 The Sinister Six (Challenges I Conquered)
 
-## 📊 Daily Bugle Front Page (GitHub Stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakuDaku05&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&icon_color=5085C8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakuDaku05&theme=radical&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=5085C8" width="48%" />
-</div>
+- **Doc Ock (Multi-tasking):** Managing complex distributed architectures where every service acts as an independent arm.
+- **Venom (Legacy Code):** Taming dark, chaotic, and monolithic codebases, cleansing them into pure, maintainable architectures.
+- **Green Goblin (Production Outages):** Defeating unexpected runtime crashes with high-flying debugging skills and tracing tools.
+- **Sandman (Data Pipelines):** Wrangling massive, shifting pipelines of unstructured data into organized, actionable insights.
 
-<br>
-
-<div align="center">
-  <h3>📰 Top Classified Daily Bugle Reports (Top Repos)</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuDaku05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9" />
-</div>
+<br><br>
 
 --- 🕸️ ---
 
+<br><br>
+
 <div align="center">
   <h3>🎧 Web-Swinging Soundtrack</h3>
-  [![Play Song](https://img.shields.io/badge/Play_SpiderMan_Theme-red?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+  <p><i>Hit play and enjoy the vibe of the Spider-Verse:</i></p>
+  <video controls src="Phillip-Phillips-Gone-Gone-Gone.mp3" width="400"></video>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <p><i>"See ya later!"</i></p>
