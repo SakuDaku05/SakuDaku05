@@ -5,6 +5,12 @@
 <h1 align="center">🕷️ Welcome to the Multiverse 🕸️</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=500&lines=Friendly+Neighborhood+Coder;AI+Agent+Architect;Full-Stack+Web-Slinger" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <i>"Anyone can wear the mask. You could wear the mask."</i><br>
   <b>— Miles Morales / Gwen Stacy / Peter Parker</b>
 </p>
@@ -74,6 +80,22 @@ Every hero needs a utility belt. These are the tools in my web-shooters, mastere
 
 <div align="center">
   <img src="villain.gif" alt="The Sinister Six" width="70%" style="border-radius: 15px;" />
+</div>
+
+<br><br>
+
+--- 🕸️ ---
+
+<br><br>
+
+## 🌃 The Multiverse Contribution Grid
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakuDaku05/SakuDaku05/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakuDaku05/SakuDaku05/output/github-snake-spidey.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SakuDaku05/SakuDaku05/output/github-snake-spidey.svg">
+  </picture>
 </div>
 
 <br><br>
